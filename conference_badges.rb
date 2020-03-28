@@ -4,6 +4,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
+  new_badge = []
   badges = ["Hello my name is #{attendees}"]
     return badges
 end
