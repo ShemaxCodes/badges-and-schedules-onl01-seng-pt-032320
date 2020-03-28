@@ -6,5 +6,5 @@ end
 def batch_badge_creator(attendees)
   new_badge = []
   badges = ["Hello my name is #{attendees}"]
-    return badges
+    return new_badge
 end
