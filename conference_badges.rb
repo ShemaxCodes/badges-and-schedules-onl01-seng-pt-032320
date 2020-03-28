@@ -4,9 +4,8 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
-  new_badge = []
+  badges = []
   attendees.each do |x|
-    new_badge = 
-    return "Hello, my name is #{x}"
+    return badges
   end
 end
